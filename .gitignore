@@ -1,0 +1,16 @@
+# MNIST 数据集
+data/
+*.gz
+*.idx3-ubyte
+*.idx1-ubyte
+
+# 你的实验记录和模型
+checkpoints/
+*.pth
+*.xlsx
+runs/
+
+# 环境与缓存
+__pycache__/
+*.py[cod]
+.vscode/
